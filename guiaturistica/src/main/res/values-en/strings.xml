@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tourist Guide</string>
+    <string name="hotel">Hotels and Hostels</string>
+    <string name="bar">Bars</string>
+    <string name="sitio">tourism</string>
+    <string name="demo">Demography</string>
+    <string name="cambio">Cambiar a Español</string>
+    <string name="acercade">About</string>
+    <string name="santa">Santa Rosa de Cabal</string>
+    <string name="infoprincipal">Of the main cities of Colombian department of Risaralda with a
+        population of 132,000 inhabitants between its rural and urban areas. The City of Araucaria
+        as known has an area of 564 km² and located in the Colombian Andes, specifically the coffee
+        region that is located just 14 kilometers from Pereira, on the road leading to Manizales,
+        has a temperate climate mountain, an average temperature of 19 ° C.\n\n
+
+Among its main highlights the thermal Thermal Santa Rosa, a hotel nestled in a hilly landscape
+        that has all the facilities and appropriate services for the convenience of hotel visitors.
+        Other hot springs found in its perimeter are Arbelaez and Ecotermales of San Vicente,
+        distant only 9 and 17 kilometers from the town of Santa Rosa de Cabal.\n\n
+
+But not only the thermal are recognized in Santa Rosa. So is its cuisine, headed by the same
+        Chorizos Santarrosanos that can be found in different parts of the town and both sides of the road.\n
+</string>
+    <string name="title_activity_hotels">HotelsActivity</string>
+    <string name="title_activity_bars">BarsActivity</string>
+
+    <string name="oncabartitle">ONCA Coffee-Bar</string>
+    <string name="oncabarinfo">\nDirection: Street 5 No. 23-51 \n
+Phone: (57) (6) 324 34 33 \n
+Email: oncacafebar@gmail.com \n
+Pereira, Risaralda, Colombia \n
+\n\n
+Opening hours:\n
+Monday to Saturday: 04:00 p.m. a 03:00 a.m.\n
+Sunday: 06:00 p.m. a 03:00 a.m. \n
+</string>
+
+    <string name="baranibartitle">BARANI Coffee Lounge</string>
+    <string name="baraniinfo">\nDirection: Street 10 Bis No. 15-09\n
+Phone: 324 0543 - 316 244 4801 - 312 885 4292\n
+Pereira, Risaralda, Colombia\n
+</string>
+    
+    <string name="barcelonabartitle">BARCELONA Bar</string>
+    <string name="barcelonainfo">\nDirection: Street 13 No. 1-76 (Park La Rebeca)\n
+Phone: 316 1122\n
+Pereira, Risaralda, Colombia\n
+Email: barcelonapereira@gmail.com \n
+</string>
+
+    <string name="hoteltermalestitle">Hotel THHERMALS</string>
+    <string name="hoteltermalesinfo">\nCity of Pereira in Colombia in the middle
+        of the mountains in the town of Santa Rosa about 30 minutes by bus or car,
+        has a hot spring. Located at Km 10 Vereda San Ramon, Santa Rosa de Cabal,
+        has its own thermal spring.
+$ 700,000 night for 2 people \n\n
+
+</string>
+
+    <string name="hotelfincatitle">Finca del Café</string>
+    <string name="hotelfincainfo">\nSanta Rosa de Cabal, a 3,8 km de: City Center\n
+Breakfast included in any type of room\n\n
+$350.200 doble Room \n
+$400.000 Quadruople Room \n
+$680.000 Grand Room \n
+$500.000 Family Room \n
+</string>
+
+    <string name="hotelcoffetitle">Coffee Town Hostel</string>
+    <string name="hotelcoffeinfo">\nYou are entitled to all the coffee
+        you want to take, you can use the kitchen to your taste, good
+        atmosphere to meet foreigners and people from other parts.
+
+    $100.00 Doble Bed\n
+$60.000 Single Bed\n
+        Direction: Cra. 15 #10-65, Santa Rosa de Cabal, Risaralda
+</string>
+    <string name="banderayescudo">Flag and Coat belonging to the municipality of Santa Rosa de Cabal</string>
+
+        <string name="demografiainfo">The town is near the Nevado de Santa Isabel has a height of 4,950 meters above sea level and natural boundary between the departments of Risaralda and Tolima. \n\n
+It is located south east of Risaralda Department at coordinates 4 degrees 52 minutes north latitude and 75 degrees 37 minutes west longitude. Its municipal head is 1840 meters above sea level and at a distance of 15 km from Pereira.\n\n
+Another highlighted site within the territory of the city, is the Laguna del Otún and consequent river that with others form hydrographic system. It is a place used for ecotourism by farm-hotels and traditional life of the estate paisa.\n
+</string>
+
+    <string name="limites">Limits and general information:</string>
+    <string name="limitesinfo">\nNorth with Palestina, Chinchiná and Villamaría,\n
+South with the municipalities of Pereira and Dosquebradas;\n
+By the east with the municipality of Villamaría and Santa Isabel (Tolima);\n
+By the West with the municipalities of Pereira, Marsella and Dosquebradas.\n\n
+
+ • Coordinates	4°52′02″N 75°37′16″O \n
+ • Entity:	Municipio\n
+ • Department:	Risaralda\n
+ • Total area:	486 km²\n
+ • Media altitude:	1715 m s. n. m.\n
+ • Mayor:	Henry Arias Mejía (2016-2019)\n\n
+ • Foundation:	13 de octubre de 1844 (171 años)\n
+ • Distance:	15 km a Pereira\n
+ • Population (2015):\n
+    - Total:	72 230 hab.\n
+    - Urban: 60 191 hab.\n
+ • Demonym:	Santarrosano, -a\n
+ • Time zone:	UTC -5\n
+
+</string>
+    <string name="titulosantarosasitiotitle">Termales Santa Rosa de Cabal</string>
+    <string name="santarosadecabalinfositio">\nLocated in a privileged place for recreation and relaxation, with a unique ecological environment. We offer our visitors mountains and waterfalls of thermal water and cold water; our thermal waters spring from the earth at a temperature of 70 ° C. and travel down the waterfalls until you reach the pools at a temperature of 40 ° C.\n\n
+
+In Termales Balneario Santa Rosa de Cabal,  offers visitors cold water cascades, pools thermal water, ecological to learn more about our nature routes, source of beauty and natural peace.\n\n
+
+For use of the pools swimsuit is required. the use of comfortable shoes is suggested for movement to and from the spa to entry; and nonslip footwear (beach) in the area of the pools.\n</string>
+
+    <string name="sanvicentetitulo">Termales San Vicente</string>
+    <string name="sanvicenteinfo">The hot springs that flow in the Natural Reserve San Vicente, have great health benefits.\n
+It offers hosting services. (From $120.000)\n
+thermal pools.\n
+plans and adventure hikes for everyone. (From $45.000)\n
+Spa. (From $20000)\n
+Birding.  (From $20.000)\n
+Passports all inclusive. (From $45.000)\n\n
+    Maria Elena Giraldo\n
+Email: ventascali@sanvicente.com.co\n
+Phone: (+57) 310 43 79 903</string>
+    <string name="ecoturtitle">Ecotourism</string>
+    <string name="ecoturinfo">\nFor various sites of the city are points of information where you can find various information for tours and hiking or bird watching which can make the National Park Nevados and extensive green areas surrounding the hot springs in the region.\n</string>
+    <string name="acercainfo">Make application by Yerson Estiven Gallego Zapata.\n
+In Association with google.com and traslate.google.com\n
+All rights reserved.\n
+Total or partial reproduction of content, entails a serious infringement of intellectual property rights punishable up to 5 years of cancel.\n
+Papu, Te estamos observando.
+</string>
+</resources>

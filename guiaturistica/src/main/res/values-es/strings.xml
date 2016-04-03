@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guia Turistica</string>
+    <string name="hotel">Hoteles y Hostales</string>
+    <string name="bar">Bares</string>
+    <string name="sitio">Turismo</string>
+    <string name="demo">Demografia</string>
+    <string name="cambio">Change to English</string>
+    <string name="acercade">Acerca de</string>
+    <string name="santa">Santa Rosa de Cabal</string>
+    <string name="infoprincipal">De las principales ciudades del departamento colombiano de Risaralda
+        con una población de 132.000 habitantes entre sus áreas rurales y urbanas. La Ciudad de las
+        Araucarias como es conocida tiene una superficie de 564 km² y localizado en la zona andina colombiana,
+        específicamente la región cafetera que se encuentra ubicado a solo 14 kilómetros de Pereira, en la
+        vía que conduce a Manizales, tiene un clima templado de montaña, con una temperatura promedio de 19°C.\n\n
+
+Santa Rosa de Cabal es famoso por sus aguas termales, una especie de sauna al aire libre a cuyas aguas se le
+        atribuyen propiedades milagrosas. Entre sus principales termales se destacan los Termales de Santa Rosa,
+        un hotel enclavado en un paisaje montañoso que cuenta con todas las facilidades y servicios apropiados
+        para la comodidad de sus visitantes. Otros termales que se encuentran en su perímetro son los de Arbeláez
+        y los Ecotermales de San Vicente, distantes solo a 9 y 17 kilómetros del casco urbano de Santa Rosa de Cabal.\n\n
+
+Pero no solo los termales son reconocidos en Santa Rosa. También lo es su gastronomía, encabezada por los Chorizos
+        Santarrosanos mismos que se pueden encontrar en diferentes partes del municipio y ambos lados de la carretera.\n
+</string>
+    <string name="title_activity_hotels">HotelsActivity</string>
+    <string name="title_activity_bars">BarsActivity</string>
+
+    <string name="oncabartitle">ONCA Café-Bar</string>
+    <string name="oncabarinfo">\nDirección: Carrera 5 No. 23-51 \n
+Teléfono: (57) (6) 324 34 33 \n
+Email: oncacafebar@gmail.com \n
+Pereira, Risaralda, Colombia \n
+\n\n
+Horario de atención:\n
+Lunes a Sábado: 04:00 p.m. a 03:00 a.m.\n
+Domingo: 06:00 p.m. a 03:00 a.m. \n
+</string>
+
+    <string name="baranibartitle">BARANI Café Lounge</string>
+    <string name="baraniinfo">\nDirección: Calle 10 Bis No. 15-09\n
+Teléfono: 324 0543 - 316 244 4801 - 312 885 4292\n
+Pereira, Risaralda, Colombia\n
+</string>
+
+    <string name="barcelonabartitle">BARCELONA Bar</string>
+    <string name="barcelonainfo">\nDirección: Calle 13 No. 1-76 (Parque La Rebeca)\n
+Teléfono: 316 1122\n
+Pereira, Risaralda, Colombia\n
+Email: barcelonapereira@gmail.com \n
+</string>
+
+    <string name="hoteltermalestitle">Hotel TERMALES</string>
+    <string name="hoteltermalesinfo">\nDe la ciudad de Pereira en Colombia en medio de las
+        montañas de la localidad de Santa Rosa de unos 30 minutos en autobús o coche, tiene
+        una fuente termal. Ubicado en el Km 10 Vereda San Ramon, Santa Rosa de Cabal, cuenta
+        con una fuente termal propia. \n\n
+$700.000 la noche para 2 personas
+</string>
+
+    <string name="hotelfincatitle">Finca del Café</string>
+    <string name="hotelfincainfo">\nSanta Rosa de Cabal, a 3,8 km de: Centro de la ciudad\n
+Desayuno Incluido en cualquier precio\n
+$350.200 cuarto Doble \n
+$400.000 cuarto Cuadruple Room \n
+$680.000 Gran Cuarto \n
+$500.000 Cuarto Familiar \n
+</string>
+
+    <string name="hotelcoffetitle">Hostal Coffee Town</string>
+    <string name="hotelcoffeinfo">\nTiene derecho a todo el café que desee tomar,
+        se puede usar la cocina a su gusto, buen ambiente para conocer extranjeros
+        y personas de otras partes.\n
+        $100.00 cama doble\n
+        $60.000 Cama sencilla\n
+        Direccion: Cra. 15 #10-65, Santa Rosa de Cabal, Risaralda
+</string>
+    <string name="banderayescudo">Bandera y escudo pertenecientes al municipio de Santa Rosa de Cabal </string>
+    <string name="demografiainfo">La ciudad está cerca del Nevado de Santa Isabel que tiene una
+        altura de 4.950 metros sobre el nivel del mar y que de límite natural entre los
+        departamentos de Risaralda y Tolima.\n\n
+
+Está localizada al sur oriente del Departamento de Risaralda en las coordenadas 4 grados 52
+        minutos latitud norte y 75 grados 37 minutos de longitud oeste. Su cabecera municipal
+        se encuentra a 1840 metros sobre el nivel del mar y a una distancia de 15 km de Pereira.
+        Otro sitio destacado dentro del territorio de la ciudad, es la Laguna del Otún y su
+        consecuente río que con otros forman sistema hidrográfico. Es un lugar usado para el
+        ecoturismo por las finca-hoteles y la vida tradicional de la hacienda paisa.\n
+</string>
+    <string name="limites">Limites y datos generales:</string>
+    <string name="limitesinfo">\nAl norte con Palestina, Chinchiná y Villamaría,\n
+Al sur con los municipios de Pereira y Dosquebradas;\n
+Por el oriente con el municipio de Villamaría y Santa Isabel (Tolima);\n
+Por el occidente con los municipios de Pereira, Marsella y Dosquebradas.\n\n
+
+ • Coordenadas	4°52′02″N 75°37′16″O \n
+ • Entidad:	Municipio\n
+ • Departamento:	Risaralda\n
+ • Superficie Total:	486 km²\n
+ • Altitud Media	1715 m s. n. m.\n
+ • Alcalde:	Henry Arias Mejía (2016-2019)\n\n
+ • Fundación:	13 de octubre de 1844 (171 años)\n
+ • Distancia:	15 km a Pereira\n
+ • Población (2015):\n
+    - Total	72 230 hab.\n
+    - Urbana	60 191 hab.\n
+ • Gentilicio:	Santarrosano, -a\n
+ • Uso horario:	UTC -5\n
+
+</string>
+    <string name="titulosantarosasitiotitle">Termales Santa Rosa de Cabal</string>
+    <string name="santarosadecabalinfositio">\nUbicados en un sitio privilegiado para la recreación 
+y el descanso, con un entorno ecológico único. Ofrecemos a nuestros visitantes montañas y 
+cascadas de agua termal y agua fría; nuestras aguas Termales brotan de la tierra a una 
+temperatura de 70º C. y descienden por las cascadas hasta llegar a las piscinas a una temperatura de 40º C.\n\n
+ 
+En Termales Balneario Santa Rosa de Cabal, ofrece a sus visitantes cascadas de agua fría, piscinas 
+de agua termal, rutas ecológicas para conocer mejor nuestra naturaleza, fuente de belleza 
+y paz natural.\n\n
+        
+Para el uso de las piscinas se exige traje de baño. Se sugiere el uso de calzado cómodo para  el 
+desplazamiento hacia y desde el balneario a su entrada;  así como  calzado antideslizante 
+( playero) en el sector de las piscinas.\n</string>
+    
+    <string name="sanvicentetitulo">Termales San Vicente</string>
+    <string name="sanvicenteinfo">Las aguas termales que brotan en la Reserva Natural San Vicente, cuentan con grandes beneficios para la salud.\n
+Cuenta con servicios de alojamiento. (desde 120.000)\n
+piscinas termales.\n
+planes de aventura y senderismos para todos. ( Desde $45.000)\n
+Spa. (desde 20000)\n
+Avistamiento de Aves. (desde 20.000)\n
+pasaportes con todo incluido. (desde 45.000)\n\n
+Maria Elena Giraldo\n
+Email: ventascali@sanvicente.com.co\n
+Celular: (+57) 310 43 79 903</string>
+    <string name="ecoturtitle">Ecoturismo</string>
+    <string name="ecoturinfo">\nPor diversos sitios de la ciudad, se encuentran putnos de informacion donde puede
+hallar diversa informacion para recorridos y caminatas o avistamiento de aves las cuales se pueden hacer el parque nacional de los Nevados y por las extensas zonas verdes que rodean las aguas termales de la región.\n</string>
+    <string name="acercainfo">Aplicación Realiza por Yerson Estiven Zapata Gallego.\n
+En Asociación con google.com y traslate.google.com \n
+Todos los derechos reservados.\nLa reproducción total o parcial del contenido, conlleva una infracción grave de derechos intelectuales penalizable hasta con 5 años de cancel.\n
+Papu, we waching you
+</string>
+
+
+</resources>

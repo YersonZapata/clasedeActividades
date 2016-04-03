@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas App</string>
+    <string name="expo">Exposiciones</string>
+    <string name="prac">Practicas</string>
+    <string name="proy">Proyecto</string>
+    <string name="calc">Calular</string>
+    <string name="notaFinal">Nota Final</string>
+    <string name="titulo">Configuracion de (%)</string>
+    <string name="guardar">Guardar</string>
+    <string name="configuracion">Configurar</string>
+    <string name="acerca">Acerca De</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="idioma">Cambiar lenguaje</string>
+    <string name="aviso">"Los valores deben \nestar entre 0 y 5"</string>
+    <string name="producidopor">Realizado por:\nYerson Estiven Zapata Gallego</string>
+    <string name="error">"Ningun campo debe estar vacio"</string>
+    <string name="error2">El porcentaje total debe ser igual a 100</string>
+
+</resources>

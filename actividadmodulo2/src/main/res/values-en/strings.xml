@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="expo">Expositions</string>
+    <string name="prac">Practices</string>
+    <string name="proy">Proyect</string>
+    <string name="calc">Calculate</string>
+    <string name="notaFinal">Final Note</string>
+    <string name="titulo">Configuration of (%)</string>
+    <string name="guardar">Save</string>
+    <string name="configuracion">Configurate</string>
+    <string name="acerca">About Us</string>
+    <string name="limpiar">Clean</string>
+    <string name="idioma">Change language</string>
+    <string name="aviso">"values must be  \nbetween 0 and 5"</string>
+    <string name="producidopor">Created by:\nYerson Estiven Zapata Gallego</string>
+    <string name="error">No element should be empty</string>
+    <string name="error2">The total percentage must equal 100</string>
+</resources>
