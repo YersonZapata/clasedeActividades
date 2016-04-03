@@ -12,9 +12,7 @@
     <item
         android:id="@+id/demografia"
         android:title="@string/demo" />
-    <item
-        android:id="@+id/cambiar"
-        android:title="@string/cambio" />
+
     <item
         android:id="@+id/acercade"
         android:title="@string/acercade" />
